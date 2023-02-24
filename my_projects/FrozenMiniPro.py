@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #Import the 'random' module.
 #Define a dictionary called 'questions' with four keys, each representing a question about favorite winter activities, personalities, Disney songs, and magical powers. 
 #The values for each key are lists containing four possible answer choices.
