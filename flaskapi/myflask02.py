@@ -7,7 +7,7 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route("/hello/<name>")
+@app.route("hello/Worf%20Son%20of%20Mogh")
 def hello_name(name):
     return f"Hello {name}"
     ## V2 STYLE STRING FORMATTER - return "Hello {}".format(name)
